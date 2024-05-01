@@ -12,3 +12,4 @@ for (let property in statistics) {
     console.log(statistics[property]);
   }
 }
+
